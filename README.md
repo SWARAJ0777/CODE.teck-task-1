@@ -21,3 +21,4 @@ This project is a Basic Calculator program written in Python. It allows users to
 4. Technology Used:
 Programming Language: Python
 Built-in functions: Input/Output, Conditional Statements, Functions for operations
+output:![Task 1 output](https://github.com/user-attachments/assets/7bf8902e-483e-4339-9f59-14ea8b4909c4)
